@@ -9,7 +9,7 @@
 # - Las preguntas de domicilio y teléfono sólo se pregunten una sola vez.
 
 
-# Asignando formato y colores a los textos de las secciones
+# Asignando textos de las secciones
 title = 'Pizzas Panuchi'
 welcome = 'Bienvenido/a desde este sistema puedes pedir tu pizza'
 instructions_1 = 'Selecciona una pizza:'
