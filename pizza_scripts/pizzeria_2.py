@@ -18,13 +18,23 @@ instructions_3 = 'Escribe el numero del tamaño de pizza: '
 instructions_4 = 'Escribe tu dirección: '
 instructions_5 = 'Escribe tu número telefónico: '
 instructions_6 = 'El resumen de tu orden es:'
+question_1 = '¿Quiéres agregar otra pizza? s/n '
+order_1 = 'Tipo de pizza:'
+order_2 = 'Tamaño de la pizza:'
+order_3 = 'Dirección:'
+order_4 = 'Teléfono:'
+
 pizza_types = {'1':'mexicana', '2':'peperoni', '3':'hawaiana', '4':'especial', '5':'campirana', '6':'festiva'}
 pizza_sizes = {'1':'infantil', '2':'mediana', '3':'grande', '4':'gigante', '5':'morbida'}
+
 separator = 56 * '*'
+separator_2 = 56 * '-'
+
 
 # Lista en la que almacenaremos todo el pedido del cliente
 complete_order = []
 client_contact = []
+
 
 status = True
 while status:
@@ -57,7 +67,7 @@ while status:
     client_order.append(pizza_sizes[size_selection])
     complete_order.append(client_order)
 
-    other_pizza = input('¿Quiéres agregar otra pizza? s/n ')
+    other_pizza = input(f'{question_1}')
     if other_pizza == 'n':
         status = False
 
@@ -76,9 +86,9 @@ print(separator)
 # Imprime el resumen del pedido
 print(instructions_6)
 for pizza in complete_order:
-    print(separator)
-    print(f'Tipo de pizza: {pizza[0].capitalize()}')
-    print(f'Tamaño de pizza: {pizza[1].capitalize()}')
+    print(separator_2)
+    print(f'{order_1} {pizza[0].capitalize()}')
+    print(f'{order_2} {pizza[1].capitalize()}')
 print(separator)
-print(f'Entregar en: {client_contact[0]}')
-print(f'Teléfono: {client_contact[1]}')
+print(f'{order_3} {client_contact[0]}')
+print(f'{order_4} {client_contact[1]}')
