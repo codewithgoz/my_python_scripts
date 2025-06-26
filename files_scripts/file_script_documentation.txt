@@ -9,8 +9,7 @@ Aprenderás a leer, escribir, copiar, eliminar,
 renombrar y organizar archivos y directorios de tu sistema 
 operativo desde scripts de Python.
 --------------------------------------------------------------
-Bibliotecas: 
-pathlib, os
+Bibliotecas: pathlib, os
 --------------------------------------------------------------
 Scripts:
 
@@ -29,6 +28,11 @@ Creación de rutas con la biblioteca pathlib
 
 file_script_5.py
 Crea una carpeta nueva con la biblioteca pathlib
+
+file_script_6.py
+Crea varias carpetas con la biblioteca os
+
+
 
 
 
