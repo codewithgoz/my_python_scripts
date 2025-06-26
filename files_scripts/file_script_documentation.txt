@@ -35,5 +35,9 @@ Crea varios directorios con la biblioteca os
 file_script_7.py
 Listar subdirectorios con la biblioteca pathlib
 
+file_script_8.py
+Listar archivos dentro del árbol de directorios
+utilizando la biblioteca pathlib
+
 
 
