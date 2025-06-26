@@ -39,5 +39,9 @@ file_script_8.py
 Listar archivos dentro del árbol de directorios
 utilizando la biblioteca pathlib
 
+file_script_9.py
+Trabajar con las rutas absolutas y relativas
+utilizando las bibliotecas pathlib y os
+
 
 
