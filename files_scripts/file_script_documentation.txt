@@ -28,7 +28,7 @@ file_script_4.py
 Creación de rutas con la biblioteca pathlib
 
 file_script_5.py
-Crea carpetas nuevas con la biblioteca pathlib
+Crea una carpeta nueva con la biblioteca pathlib
 
 
 

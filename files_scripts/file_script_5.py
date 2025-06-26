@@ -6,7 +6,7 @@
 #     ( (            
 #     \_\_____      Automatización de Archivos y Directorios   
 #     (_______)     file_script_5.py
-#   (___________)   Crea carpetas nuevas con la biblioteca pathlib
+#   (___________)   Crea una carpeta nueva con la biblioteca pathlib
 #  (_____________)  
 #######################################################################
 
