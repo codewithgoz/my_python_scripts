@@ -10,7 +10,7 @@
 #  (_____________)  pathlib y os
 #######################################################################
 
-
+# pathlib y os forman parte de la biblioteca estándar
 from pathlib import Path
 import os
 
@@ -22,14 +22,12 @@ import os
 # Recuerda que tus scripts se ejecutarán si tienes permisos en el directorio
 
 # Utilizando pathlib
-my_home_1 = Path.home()
-print(my_home_1)
-print(type(my_home_1))
+print(Path.home())
+print(type(Path.home()))
 
 # Utilizando os
-my_home_2 = os.path.expanduser('~')
-print(my_home_2)
-print(type(my_home_2))
+print(os.path.expanduser('~'))
+print(type(os.path.expanduser('~')))
 
 
 
