@@ -17,7 +17,9 @@ my_current_path = Path('.')
 print(my_current_path)
 
 # Obtenemos los archivos dentro del árbol de directorios
-my_python_scripts = list(my_current_path.glob('**/*.py'))
+#my_python_scripts = list(my_current_path.glob('**/*.py'))
+my_python_scripts = list(my_current_path.glob('**/*.*'))
+
 
 print(my_python_scripts)
 
@@ -32,4 +34,3 @@ for my_script in my_python_scripts:
 
 
 
-    
