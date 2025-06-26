@@ -20,3 +20,7 @@ Obtener el directorio home con las bibliotecas pathlib y os
 file_script_2.py
 Obtener el directorio de trabajo actual con las bibliotecas 
 pathlib y os
+
+file_script_3.py
+Cambiar de directorio con la biblioteca os
+
