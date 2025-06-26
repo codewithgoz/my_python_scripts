@@ -6,7 +6,7 @@
 #     ( (            
 #     \_\_____      Automatización de Archivos y Directorios   
 #     (_______)     file_script_6.py
-#   (___________)   Crea varias carpetas con la biblioteca os
+#   (___________)   Crea varios directorios con la biblioteca os
 #  (_____________)  
 #######################################################################
 
@@ -21,7 +21,7 @@ print(my_current_path)
 new_directories = my_current_path / Path('data','json','reports')
 print(new_directories)
 
-# Crea no solo una sino todas las carpetas necesarias
+# Crea varios directorios
 os.makedirs(new_directories)
 
 

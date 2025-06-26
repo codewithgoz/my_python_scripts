@@ -6,7 +6,7 @@
 #     ( (            
 #     \_\_____      Automatización de Archivos y Directorios   
 #     (_______)     file_script_5.py
-#   (___________)   Crea una carpeta nueva con la biblioteca pathlib
+#   (___________)   Crea un directorio nuevo con la biblioteca pathlib
 #  (_____________)  
 #######################################################################
 
@@ -16,7 +16,7 @@ from pathlib import Path
 my_current_path = Path.cwd()
 print(my_current_path)
 
-# Crea una carpeta
+# Crea un directorio nuevo
 Path(my_current_path, 'images').mkdir()
 
 
