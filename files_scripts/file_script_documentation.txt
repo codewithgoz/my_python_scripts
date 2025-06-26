@@ -24,3 +24,8 @@ pathlib y os
 file_script_3.py
 Cambiar de directorio con la biblioteca os
 
+file_script_4.py
+Creación de rutas con la biblioteca pathlib
+
+
+
