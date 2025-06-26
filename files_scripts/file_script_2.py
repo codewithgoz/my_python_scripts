@@ -7,8 +7,8 @@
 #     ( (            
 #     \_\_____      Automatización de Archivos y Directorios   
 #     (_______)     file_script_2.py
-#   (___________)   Obtener el directorio de trabajo actual
-#  (_____________)  pathlib y os
+#   (___________)   Obtener el directorio de trabajo actual con las
+#  (_____________)  bibliotecas pathlib y os
 #######################################################################
 
 # pathlib y os forman parte de la biblioteca estándar

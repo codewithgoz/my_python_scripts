@@ -4,12 +4,19 @@ Code With Goz - https://codewithgoz.com
 --------------------------------------------------------------
 Clase 2 - Automatización de Archivos y Directorios
 --------------------------------------------------------------
-Objetivos: Aprenderás a leer, escribir, copiar, eliminar, 
+Objetivos: 
+Aprenderás a leer, escribir, copiar, eliminar, 
 renombrar y organizar archivos y directorios de tu sistema 
 operativo desde scripts de Python.
 --------------------------------------------------------------
-Bibliotecas: pathlib, os
+Bibliotecas: 
+pathlib, os
 --------------------------------------------------------------
+Scripts:
+
 file_script_1.py
 Obtener el directorio home con las bibliotecas pathlib y os
 
+file_script_2.py
+Obtener el directorio de trabajo actual con las bibliotecas 
+pathlib y os
