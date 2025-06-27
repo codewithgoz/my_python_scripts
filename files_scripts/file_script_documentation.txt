@@ -47,3 +47,7 @@ file_script_10.py
 Obtener las partes de una ruta con la
 biblioteca pathlib
 
+file_script_11.py
+Obtener las partes de una ruta con la
+biblioteca os
+
