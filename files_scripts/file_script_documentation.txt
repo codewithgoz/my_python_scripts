@@ -43,5 +43,7 @@ file_script_9.py
 Trabajar con las rutas absolutas y relativas
 utilizando las bibliotecas pathlib y os
 
-
+file_script_10.py
+Obtener las partes de una ruta con la
+biblioteca pathlib
 
