@@ -51,3 +51,12 @@ file_script_11.py
 Obtener las partes de una ruta con la
 biblioteca os
 
+file_script_12.py
+Obtener el tamaño de un archivo con la biblioteca os
+
+
+
+
+
+
+
