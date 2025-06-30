@@ -58,7 +58,9 @@ file_script_13.py
 Obtener una lista con los archivos de un directorio
 con la biblioteca os
 
-
+file_script_14.py
+Obtener una lista con los archivos de un directorio
+utilizando patrones glob de la biblioteca pathlib
 
 
 
