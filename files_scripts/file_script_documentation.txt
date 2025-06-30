@@ -65,6 +65,8 @@ utilizando patrones glob de la biblioteca pathlib
 file_script_15.py
 Validar rutas con las bibliotecas pathlib y os
 
+file_script_16.py
+Copiar archivos o directorios con la biblioteca shutil
 
 
 
