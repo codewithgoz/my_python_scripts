@@ -54,7 +54,9 @@ biblioteca os
 file_script_12.py
 Obtener el tamaño de un archivo con la biblioteca os
 
-
+file_script_13.py
+Obtener una lista con los archivos de un directorio
+con la biblioteca os
 
 
 
