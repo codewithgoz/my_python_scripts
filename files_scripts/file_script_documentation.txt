@@ -9,7 +9,7 @@ Aprenderás a leer, escribir, copiar, eliminar,
 renombrar y organizar archivos y directorios de tu sistema 
 operativo desde scripts de Python.
 --------------------------------------------------------------
-Bibliotecas: pathlib, os
+Bibliotecas: pathlib, os, shutil
 --------------------------------------------------------------
 Scripts:
 
@@ -67,6 +67,21 @@ Validar rutas con las bibliotecas pathlib y os
 
 file_script_16.py
 Copiar archivos o directorios con la biblioteca shutil
+
+file_script_17.py
+Mover archivos y directorios con la biblioteca shutil
+
+file_script_18.py
+Cambiar el nombre de archivos y directorios con la
+biblioteca shutil
+
+file_script_19.py
+Eliminar archivos y directorios con las
+bibliotecas os y shutil
+
+file_script_20.py
+Eliminar de forma segura archivos y directorios
+con la biblioteca send2trash
 
 
 
