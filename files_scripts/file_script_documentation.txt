@@ -87,8 +87,9 @@ file_script_21.py
 Recorrer el árbol de directorios con 
 la biblioteca os
 
-organizer.py
+directory_organizer.py
 Script para extraer archivos de un árbol de directorios
 
-
+directory_creator.py
+Script para crear directorios a partir de un archivo
 
