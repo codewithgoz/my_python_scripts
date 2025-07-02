@@ -83,5 +83,12 @@ file_script_20.py
 Eliminar de forma segura archivos y directorios
 con la biblioteca send2trash
 
+file_script_21.py
+Recorrer el árbol de directorios con 
+la biblioteca os
+
+organizer.py
+Script para extraer archivos de un árbol de directorios
+
 
 
